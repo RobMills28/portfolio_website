@@ -42,8 +42,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-          An aptitude for building applications <br />
-          that are aesthetically pleasing and function smoothly
+          I have used graphics editors like Adobe Photoshop and Microsoft Paint
           </ListParagraph>
         </ListContainer>
       </ListItem>
