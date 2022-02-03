@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Web 3, NFTs, and the Metaverse',
-    description: "I built this project to refine my HTML, CSS, and JavaScript skills. As well as to learn about three huge trends, that are the result of blockchain and cryptocurrency technology",
+    description: "This is a project that I created to show my technical ability and understanding of Web3/NFTs/the Metaverse. It can be viewed at web3nftsandthemetaverse.com",
       image: '/images/1.png',
       tags: ['HTML', 'CSS', 'JS'],
     source: 'https://github.com/RobMills28/Web3-NFTs-and-the-Metaverse',
