@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         The purpose of this portfolio is to display projects that I have built and show skills that I have learned along the way
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={() => window.location = 'https://www.linkedin.com/in/rob-mills-aa1442180/'}>Learn More</Button>
       </LeftSection>
     </Section>
   </>

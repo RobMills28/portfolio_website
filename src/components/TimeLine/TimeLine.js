@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I love to build things on the internet. I am particularly excited about Web3, hence the project I did on it (as well as NFTs and the Metaverse), and I love to challenge myself, and learn new things. <img style="margin-bottom: 10px;" src="https://pbs.twimg.com/profile_images/1469086764677664770/kkMs0n9d_400x400.jpg" alt="miamipicture"></img>
+      I love to build things on the internet. I am particularly excited about Web3, hence the project I did on it. Moreover, I love to challenge myself, and learn new things. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: 'Snake Game',
-    description: "This was the first coding project that I ever built. I built it in 2020, at the beigining of my programming journey. It was built with Python, a language that I spent time learning - before I decided to focus on front-end languages.",
+    description: "This was the first coding project that I ever built. I built it in 2020, at the beginning of my programming journey. It was built with Python, a language that I spent time learning - before I decided to focus on front-end languages.",
       image: '/images/4.jpg',
       tags: ['Python'],
     source: 'https://github.com/RobMills28/Snake-Game',
